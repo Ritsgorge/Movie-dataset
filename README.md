@@ -14,3 +14,6 @@ Database to answer you potential Acquirer’s questions. Each question will requ
 write a multi-table SQL query, joining at least two tables.
 
 Attached to this repository are the business questions requiring answers.
+
+# Data Exploration
+I loaded all 19 tables into Microsoft SQL where exploration via querying took place inorder to provide answers to the business questions.
